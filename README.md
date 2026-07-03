@@ -41,6 +41,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [container_with_most_water.py](container_with_most_water.py) |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [contains_duplicate.py](contains_duplicate.py) |
 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [contains_duplicate_ii.py](contains_duplicate_ii.py) |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median_of_two_sorted_arrays.py](median_of_two_sorted_arrays.py) |
 
 
 ## 🚀 How to Run
@@ -88,6 +89,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python container_with_most_water.py
    python contains_duplicate.py
    python contains_duplicate_ii.py
+   python median_of_two_sorted_arrays.py
    ```
 
 ## 🎯 Goals
@@ -101,8 +103,8 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 - **Easy**: 30 solved
 - **Medium**: 5 solved
-- **Hard**: 0 solved
-- **Total**: 35 problems
+- **Hard**: 1 solved
+- **Total**: 36 problems
 
 ## 🛠️ Languages Used
 
