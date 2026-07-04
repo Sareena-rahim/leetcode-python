@@ -42,6 +42,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [contains_duplicate.py](contains_duplicate.py) |
 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [contains_duplicate_ii.py](contains_duplicate_ii.py) |
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median_of_two_sorted_arrays.py](median_of_two_sorted_arrays.py) |
+| [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [missing_number.py](missing_number.py) |
 
 
 ## 🚀 How to Run
@@ -90,6 +91,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python contains_duplicate.py
    python contains_duplicate_ii.py
    python median_of_two_sorted_arrays.py
+   python missing_number.py
    ```
 
 ## 🎯 Goals
@@ -101,10 +103,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 30 solved
+- **Easy**: 31 solved
 - **Medium**: 5 solved
 - **Hard**: 1 solved
-- **Total**: 36 problems
+- **Total**: 37 problems
 
 ## 🛠️ Languages Used
 
