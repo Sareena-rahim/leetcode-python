@@ -45,6 +45,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [missing_number.py](missing_number.py) |
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [move_zeroes.py](move_zeroes.py) |
 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [intersection_of_two_arrays.py](intersection_of_two_arrays.py) |
+| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy | [third_maximum_number.py](third_maximum_number.py) |
 
 
 ## 🚀 How to Run
@@ -96,6 +97,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python missing_number.py
    python move_zeroes.py
    python intersection_of_two_arrays.py
+   python third_maximum_number.py
    ```
 
 ## 🎯 Goals
@@ -107,10 +109,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 33 solved
+- **Easy**: 34 solved
 - **Medium**: 5 solved
 - **Hard**: 1 solved
-- **Total**: 39 problems
+- **Total**: 40 problems
 
 ## 🛠️ Languages Used
 
